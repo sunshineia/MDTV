@@ -1,0 +1,36 @@
+{
+  "root" : [
+    {
+      "title" : "CCTV1 综合",
+      "quality" : "高清",
+      "url" : "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+    },
+    {
+      "title" : "CCTV-4中文国际",
+      "quality" : "标清",
+      "url" : "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
+    },
+
+    {
+      "title" : "CCTV-12社会与法",
+      "quality" : "流畅",
+      "url" : "http://ivi.bupt.edu.cn/hls/cctv12.m3u8"
+    },
+    {
+      "title" : "CCTV13 新闻",
+      "quality" : "标清",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
+    },
+    {
+      "title" : "CHC高清电影",
+      "quality" : "高清",
+      "url" : "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+    },
+    {
+      "title" : "湖南卫视",
+      "quality" : "高清",
+      "url": "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
+    }
+  ],
+  "length": 6
+}
